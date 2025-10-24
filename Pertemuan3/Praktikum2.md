@@ -41,4 +41,4 @@ print(f"Titik pertama berada di: {kuadran}")
 
 
 # Hasil Program
-![Hasil Program](../screenshots/Praktikum2.png)
+![Hasil Program](../screenshots/praktikum2.png)
