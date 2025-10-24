@@ -13,4 +13,4 @@ for y in range(0, 5):
     print()
 
 # Hasil Program
-![Hasil Program](../screenshots/Screenshot_2025-10-24_063022.png.png)
+![Hasil Program](../screenshots/praktikum1.png)
